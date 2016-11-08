@@ -1,0 +1,81 @@
+body{
+	font-family: sans-serif;
+	background-color: lightblue;
+}
+
+
+#level_title{
+	font-size: 18px;
+	color: black;		
+	font-weight: bold;
+}
+img
+	{
+		width: 800px;
+		height: 550px;
+	}
+#option2{
+	display: none;
+}
+#option3{
+	display: none;
+	position: absolute;
+	top: 320px;
+	left: 620px;
+	background-color: transparent;
+	border: 0px solid transparent;
+
+}
+#vuursteen{
+	position: relative;
+	height: 50px;
+	width: 75px;
+	}
+#option4{
+	display: none;
+	position: absolute;
+	top: 350px;
+	left: 150px;
+	background-color: transparent;
+	border: 0px solid transparent;
+}
+#knife{
+	position: relative;
+	height: 75px;
+	width: 50px;
+	opacity: 0.6;
+	}
+#option5{
+	display: none;
+	position: absolute;
+	top: 300px;
+	left: 50px;
+	background-color: transparent;
+	border: 0px solid transparent;
+}
+#pijllinks{
+	position: relative;
+	height: 75px;
+	width: 100px;
+}
+#option6{
+	display: none;
+	position: absolute;
+	top: 300px;
+	left: 650px;
+	background-color: transparent;
+	border: 0px solid transparent;
+}
+#pijlrechts{
+	position: relative;
+	height: 75px;
+	width: 100px;
+}
+#option7{
+	display: none;
+	position: absolute;
+	top: 300px;
+	left: 50px;
+	background-color: transparent;
+	border: 0px solid transparent;
+}
