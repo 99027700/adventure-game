@@ -176,5 +176,4 @@ function level9(){
 	document.getElementById('level_title').innerHTML = 'eind';
 
 
-
 }
