@@ -1,4 +1,4 @@
-document.getElementById('level_title').innerHTML = 'Start het spel';
+ppdocument.getElementById('level_title').innerHTML = 'Start het spel';
 document.getElementById('option1').innerHTML = 'start';
 
 
@@ -58,6 +58,7 @@ function level3(){
 	document.getElementById('option2').style.display = 'none';
 	document.getElementById('option1').style.display = 'none';
 }
+
 function level4(){
 	console.log("level4");
 
@@ -90,6 +91,7 @@ function level5(){
 	document.getElementById('option2').style.display = 'inline-block';
 	document.getElementById('level_title').innerHTML = 'level 5';
 }
+
 function levelspeer(){
 	console.log("levelspeer")
 
@@ -102,6 +104,7 @@ function levelspeer(){
 	document.getElementById('level_title').innerHTML = 'rip';
 	document.getElementById('option2').style.display = 'none';
 }
+
 function level6(){
 	console.log("level6");
 
