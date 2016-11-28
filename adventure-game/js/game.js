@@ -75,6 +75,7 @@ function level4(){
 	document.getElementById('option3').style.display = 'none';
 
 }
+
 function level5(){
 	console.log("level5");
 
@@ -161,8 +162,10 @@ function leveltrap(){
 
 	document.getElementById('level_image').src = 'img/trap.jpg';
 	document.getElementById('level_text').innerHTML = 'Je viel in een val das niet echt slim he. ';
-	document.getElementById('option1').style.display = 'none';
+	document.getElementById('option1').style.display = 'inline-block';
 	document.getElementById('level_title').innerHTML = 'rip';
+	document.getElementById('option5').style.display = 'none';
+	document.getElementById('option6').style.display = 'none';
 
 
 
