@@ -131,6 +131,7 @@ function level7(){
 
 	document.getElementById('level_image').src = 'img/run.jpg';
 	document.getElementById('option4').style.display = 'none';
+	document.getElementById('option1').style.display = 'none';
 	document.getElementById('option6').style.display = 'block';
 	document.getElementById('option5').style.display = 'block';
 	document.getElementById('level_title').innerHTML = 'level7';
@@ -166,8 +167,6 @@ function leveltrap(){
 	document.getElementById('level_title').innerHTML = 'rip';
 	document.getElementById('option5').style.display = 'none';
 	document.getElementById('option6').style.display = 'none';
-
-
 
 }
 function level9(){
